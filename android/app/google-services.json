@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "725738310524",
+    "project_id": "gelirgider-7c63c",
+    "storage_bucket": "gelirgider-7c63c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725738310524:android:561e55d4d9de42580bb2f9",
+        "android_client_info": {
+          "package_name": "com.example.gelirgider"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDuh9YajFJM206ybpQSOvnxTv4ZVgi5X1U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
